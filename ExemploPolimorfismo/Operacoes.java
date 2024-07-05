@@ -1,4 +1,4 @@
-package Aula20.ExemploFinal.ExemploPolimorfismo;
+package Aula20.ExemploPolimorfismo;
 
 public class Operacoes {
     public float soma(int n1, int n2){
